@@ -1,16 +1,16 @@
-### Hi there 👋
+## What’s up :v:!
 
-<!--
-**WapogaozeF/WapogaozeF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 22 y.o. & i'm a web developer from Mother Russia. :bear:
 
-Here are some ideas to get you started:
+### I am developing :computer: :
++ High-loaded microservice applications
++ Pretty SPA clients
++ Mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My hard skills :muscle: :
+- Frontend: React, Vue, PWA
+- Backend: Node.js, MongoDB, GraphQL, Redis, OpenSearch, NATS, SQL
+- DevOps: AWS, Docker/k8s, nginx, GitHub Actions, Linux administation
+- Mobile: Dart/Flutter
+
+:mailbox: : werner.ravil@gmail.com
