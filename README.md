@@ -4,7 +4,6 @@ I'm 22 y.o. & i'm a web developer from Mother Russia. :bear:
 
 ### I am developing :computer: :
 + High-loaded microservice applications
-+ Multi-tenancy applications
 + Pretty SPA clients
 + Mobile apps
 
