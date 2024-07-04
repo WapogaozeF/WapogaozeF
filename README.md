@@ -9,7 +9,7 @@ I'm 23 y.o. & i'm a web developer from Mother Russia. :bear:
 
 ### My hard skills :muscle: :
 - Frontend: React, Vue, PWA
-- Backend: Node.js, MongoDB, GraphQL, Redis, OpenSearch,Kafka, NATS, SQL
+- Backend: Node.js, MongoDB, GraphQL, Redis, OpenSearch, Kafka, NATS, SQL
 - DevOps: AWS, Docker/k8s, nginx, GitHub Actions, GoCD, Linux administation
 - Mobile: Dart/Flutter
 
