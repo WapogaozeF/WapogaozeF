@@ -8,9 +8,9 @@ I'm 23 y.o. & i'm a web developer from Mother Russia. :bear:
 + Mobile apps
 
 ### My hard skills :muscle: :
-- Frontend: React, Vue, PWA
-- Backend: Node.js, MongoDB, GraphQL, Redis, OpenSearch, Kafka, NATS, SQL
-- DevOps: AWS, Docker/k8s, nginx, GitHub Actions, GoCD, Linux administation
+- Frontend: React (Next.js), Vue (Nuxt.js), PWA
+- Backend: Node.js (Bun.js), MongoDB, SQL, Redis, S3, OpenSearch, GraphQL, Kafka, NATS (Memphis)
+- DevOps: Docker/k8s, CI/CD (GitHub Actions, werf)
 - Mobile: Dart/Flutter
 
 :mailbox: : werner.ravil@gmail.com
