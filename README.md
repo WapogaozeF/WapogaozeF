@@ -1,4 +1,4 @@
-## What’s up :v:!
+  ## What’s up :v:!
 
 I'm 24 y.o. & i'm a web developer from Mother Russia. :bear:
 
@@ -8,9 +8,9 @@ I'm 24 y.o. & i'm a web developer from Mother Russia. :bear:
 + Mobile apps
 
 ### My hard skills :muscle: :
-- Frontend: React (Next.js), Vue (Nuxt.js), PWA
-- Backend: Node.js (Bun.js), MongoDB, SQL, Redis, S3, OpenSearch, GraphQL, Kafka, NATS (Memphis)
-- DevOps: Docker/k8s, CI/CD (GitHub Actions, werf)
+- Frontend: React.js, Next.js, Solid.js, PWA, TanStack, GSAP
+- Backend: Node.js, Express.js, Bun.js, Hono, MongoDB, PostgresSQL, Redis, S3, OpenSearch, GraphQL, Kafka, NATS
+- DevOps: Docker/k8s, CI/CD (GitHub Actions, werf), Prometheus with Grafana
 - Mobile: Dart/Flutter
 
 :mailbox: : werner.ravil@gmail.com
