@@ -1,6 +1,6 @@
   ## What’s up :v:!
 
-I'm 24 y.o. & i'm a web developer and designer from Mother Russia. :bear:
+I'm 25 y.o. & i'm a web developer and designer from Mother Russia. :bear:
 
 ### I am developing :computer: :
 + High-loaded microservice applications
